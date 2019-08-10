@@ -5,9 +5,8 @@ Maintainer: AbdullahL7
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.yourepo.mohadu31.dzsnap1_1.0.3.deb
-Size: 4487
-MD5sum: C439E31E31CC27AFA4BC087FD54C7CA6
-SHA1: 4993E17168CD153FACEBCD5B81795863FAC2D8B7
+Size: 4594274
+MD5sum: c439e31e31cc27afa4bc087fd54c7ca6
 Description: the future of snapchat tweaks
 Name: DzSnap old
 Author: iMokhles
