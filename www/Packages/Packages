@@ -19,8 +19,8 @@ Section: Games
 Maintainer: AbdullahL7
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/PubgA12.deb
-Size: 1088556 
+Filename: ./debs/pubga12.deb
+Size: 1088556
 MD5sum: 3c78c1bbe476c2ad434af5a1d87cdf52
 SHA1: 3aa4280ad6c890fa74c84e67122744f3a2b6b03e
 SHA256: 04d4d8f69b40499395ce99806f7842b1d503af5b31c2479e96be20518fe3a3b8
