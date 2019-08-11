@@ -7,6 +7,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/dzsnap.deb
 Size: 5406036
 MD5sum: c124fc42b677810e6a12ed0aa04d50f1
+SHA1: 2023d3a61af36751a1752e2929cbe29e10dde218
+SHA256: 5c549b12ec0dc857800f47fc27977ae7959ac55426b0d477dd8cd0a8d0a21858
 Description: Snapchat tweak!
 Name: DzSnap
 Author: iMokhles
