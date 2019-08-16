@@ -29,17 +29,17 @@ Name: PUBG Hack A12
 Author: AbdullahL7
 
 Package: com.abdullahl7.pubg
-Version: 1.0
+Version: 2.0
 Section: Games
 Maintainer: AbdullahL7
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/pubg.deb
-Size: 1409484
-MD5sum: 4b5571d81b048229e9c782fbf2d0ce6b
-SHA1: 54a07993495c37e12d49d27aa468cf5cce855b4a
-SHA256: c76b1420babf8e95ec24804119035f40e3faa37e6d2bdf1459872657d5d51b12
-Description: Pubg Hack for A12
+Size: 195204
+MD5sum: 510bd0318511c5e79b5d3218b24833be
+SHA1: bcc6fcf66855ee90f929155cb894c9ac7f51ceed
+SHA256: 9960163d66b476d8055d3d27bac1b1f1285c0c22e09ef5e03fe0b5fefe741754
+Description: Pubg Hack
 Name: PUBG Hack 
 Author: AbdullahL7
 
