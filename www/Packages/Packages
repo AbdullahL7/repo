@@ -20,12 +20,13 @@ Maintainer: AbdullahL7
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/pubga12.deb
-Size: 1088556
-MD5sum: 3c78c1bbe476c2ad434af5a1d87cdf52
-SHA1: 3aa4280ad6c890fa74c84e67122744f3a2b6b03e
-SHA256: 04d4d8f69b40499395ce99806f7842b1d503af5b31c2479e96be20518fe3a3b8
+Size: 130924
+MD5sum: ac257055d61f8d0d44d71d43310122af
+SHA1: 7164b8e7a4d83dd12e5ea64b38d01867c9e2f4f1
+SHA256: 5627b0ac1bea58778cc11c7511b89cad7a0cf0cfa9bd8acacddae37b5854e076
 Description: Pubg Hack for A12
 Name: PUBG Hack A12
+Conflicts: com.blueplus.pubgmobilenoblocking, com.blueplus.pbh3, com.abdullahl7.pubgs
 Author: AbdullahL7
 
 Package: com.abdullahl7.pubg
@@ -40,7 +41,8 @@ MD5sum: 510bd0318511c5e79b5d3218b24833be
 SHA1: bcc6fcf66855ee90f929155cb894c9ac7f51ceed
 SHA256: 9960163d66b476d8055d3d27bac1b1f1285c0c22e09ef5e03fe0b5fefe741754
 Description: Pubg Hack
-Name: PUBG Hack 
+Name: PUBG Hack
+Conflicts: com.blueplus.pubgmobilenoblocking, com.blueplus.pbh3, com.abdullahl7.pubgs
 Author: AbdullahL7
 
 
