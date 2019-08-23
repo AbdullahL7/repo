@@ -75,3 +75,19 @@ SHA256: f79b10012ed691b791eecb43f37d249406035bcbbc8b57fd7f3cb1be15324829
 Description: Colorize your badges
 Name: ColorBadges
 Author: David Goldman
+
+Name: Phantom12
+Package: com.abdullahl7.phantom
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all, com.cokepokes.libphantom
+Replaces: com.cokepokes.phlite
+Version: 5.3.8-6
+Architecture: iphoneos-arm
+Description: Phantom for IOS11&12
+Maintainer: AbdullahL7
+Author: CokePokes <cokepokes@gmail.com>
+Section: Tweaks
+Size: 10061102
+MD5sum: c897eb57433c2720137a3f02b65ca3bb
+SHA1: 0a9a1a73f386ed0216f4d8dbc71675bee0e68683
+SHA256: 404a1501d8ce0c6a1764c61677c3f41e42d81c92db9d5edc5582a6dbf5c378fa
