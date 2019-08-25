@@ -83,7 +83,7 @@ Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.ti
 Replaces: com.cokepokes.phlite
 Version: 5.3.8-6
 Architecture: iphoneos-arm
-Filename: ./debs/phantom.deb
+Filename: ./debs/ph.deb
 Description: Phantom for IOS11&12
 Maintainer: AbdullahL7
 Author: CokePokes <cokepokes@gmail.com>
