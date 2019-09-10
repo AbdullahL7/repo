@@ -70,6 +70,7 @@ Architecture: iphoneos-arm
 Author: David Goldman
 Description: Colorize your badges
 Maintainer: AbdullahL7
+Section: Tweaks
 Filename: ./debs/colorbadges.deb
 Size: 79912
 MD5sum: 049fe4fcac4940dfc190f3c1f2dae242
