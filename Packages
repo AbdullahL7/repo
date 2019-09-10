@@ -76,7 +76,6 @@ MD5sum: 049fe4fcac4940dfc190f3c1f2dae242
 SHA1: 124d6c6f73c8b4353a9cdba7c1880f4a2339df27
 SHA256: f79b10012ed691b791eecb43f37d249406035bcbbc8b57fd7f3cb1be15324829
 
-
 Name: Phantom12
 Package: com.abdullahl7.phantom
 Priority: optional
