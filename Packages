@@ -5,7 +5,7 @@ Maintainer: AbdullahL7
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/dzsnap.deb
-Size: 5405876
+Size: 992
 MD5sum: fe5d54a9b6cd66cba9c7dc40b446a631
 SHA1: 7ed8d40754624d8e94bb28b62d3c5fd1d11e389e
 SHA256: 80aa8f0535018210f0528b07ffb05e872f22aaaa9ae4d59f1207b41128f0fcc6
@@ -63,3 +63,30 @@ Size: 9962336
 MD5sum: dc019bdd7cf8ca1d3a5ce9397277cdcc
 SHA1: 8c6c1c198e8d41e7a5df9c24b788e327f865f9ce
 SHA256: cf1ee4d4e522c9c67d6b4c1caf04569560a8b5783c78d6103aa71779c337104e
+
+Package: com.abdullahl7.ns
+Name: Necessary Sources
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Necessary Jailbreak Tools
+Maintainer: AbdullahL7
+Author: AbdullahL7
+Section: Utilities
+Size: 992
+MD5sum: d66498a20a888e8f361405e3846e7f9d
+SHA1: 074c3cf4d125a8d3dc0f3fa6aa6dc1e91883aacf
+SHA256: aebed9d8ba00bda2152749858d17dacc6f2f9b460dca04b4d0bf1784e5b5a2cd
+
+ Package: com.abdullahl7.nt
+Name: Necessary Tools
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Necessary Jailbreak Tools
+Maintainer: AbdullahL7
+Author: AbdullahL7
+Depends: com.tigisoftware.filza, ws.hbang.newterm2, com.cannathea.afc2d-arm64, com.ryleyangus.libertylite.beta, com.matchstic.reprovision, com.julioverne.cracktool4, com.cokepokes.appstoreplusplus, openssh
+Section: Utilities
+Size: 1520
+MD5sum: 50e36478c5d9c31f3865691403616839
+SHA1: 4937d9519e8710a46577cf2760aa5013c74d5878
+SHA256: c9148840429e71f84d48aa1f083222e865246fcc7d33aad2e21c233cb840b3f3

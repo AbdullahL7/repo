@@ -1,0 +1,9 @@
+Package: com.abdullahl7.nt
+Name: Necessary Tools
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Necessary Jailbreak Tools
+Maintainer: AbdullahL7
+Author: AbdullahL7
+Depends: com.tigisoftware.filza, ws.hbang.newterm2, com.cannathea.afc2d-arm64, com.ryleyangus.libertylite.beta, com.matchstic.reprovision, com.julioverne.cracktool4, com.cokepokes.appstoreplusplus, openssh
+Section: Utilities
