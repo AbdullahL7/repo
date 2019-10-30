@@ -92,3 +92,21 @@ Size: 1520
 MD5sum: 50e36478c5d9c31f3865691403616839
 SHA1: 4937d9519e8710a46577cf2760aa5013c74d5878
 SHA256: c9148840429e71f84d48aa1f083222e865246fcc7d33aad2e21c233cb840b3f3
+
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++ A12
+Version: 0.9.5-A12
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.1.2
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+Architecture: iphoneos-arm
+Author: CokePokes
+Maintainer: CokePokes
+Filename: ./debs/appstore12.deb
+Size: 1660390
+MD5sum: 224c95c3e2ddb3d4d49ea6069ede8077
+SHA1: f85de0ac7d07f5bf5ac9cc9dcfe950eaa4d0cb2a
+SHA256: b58f0210434009cf677b48d3cdd4864eda3373140fad42aa7f7ddb4fdfeff0e2
+
