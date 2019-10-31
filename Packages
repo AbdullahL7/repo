@@ -5,7 +5,7 @@ Maintainer: AbdullahL7
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/dzsnap.deb
-Size: 992
+Size: 5405876
 MD5sum: fe5d54a9b6cd66cba9c7dc40b446a631
 SHA1: 7ed8d40754624d8e94bb28b62d3c5fd1d11e389e
 SHA256: 80aa8f0535018210f0528b07ffb05e872f22aaaa9ae4d59f1207b41128f0fcc6
