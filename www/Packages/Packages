@@ -13,25 +13,6 @@ Description: Snapchat tweak!
 Name: DzSnap
 Author: iMokhles
 
-Name: Phantom12
-Package: com.abdullahl7.phantom
-Priority: optional
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
-Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all, com.cokepokes.libphantom
-Replaces: com.cokepokes.phlite
-Version: 5.3.9
-Architecture: iphoneos-arm
-Description: Phantom for IOS 11&12
-Maintainer: AbdullahL7
-Author: CokePokes 
-Section: Tweaks
-Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
-Filename: ./debs/ph.deb
-Size: 9962336
-MD5sum: dc019bdd7cf8ca1d3a5ce9397277cdcc
-SHA1: 8c6c1c198e8d41e7a5df9c24b788e327f865f9ce
-SHA256: cf1ee4d4e522c9c67d6b4c1caf04569560a8b5783c78d6103aa71779c337104e
-
 Package: com.abdullahl7.ns
 Name: Necessary Sources
 Version: 1.0
@@ -61,20 +42,17 @@ MD5sum: 50e36478c5d9c31f3865691403616839
 SHA1: 4937d9519e8710a46577cf2760aa5013c74d5878
 SHA256: c9148840429e71f84d48aa1f083222e865246fcc7d33aad2e21c233cb840b3f3
 
-Package: com.cokepokes.appstoreplusplus
-Name: AppStore++ A12
-Version: 0.9.5-A12
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.1.2
+Package: com.abdullahl7.dzsnap
 Section: Tweaks
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Priority: optional
+Maintainer: AbdullahL7
 Architecture: iphoneos-arm
-Author: CokePokes
-Maintainer: CokePokes
-Filename: ./debs/appstore12.deb
-Size: 1660390
-MD5sum: 224c95c3e2ddb3d4d49ea6069ede8077
-SHA1: f85de0ac7d07f5bf5ac9cc9dcfe950eaa4d0cb2a
-SHA256: b58f0210434009cf677b48d3cdd4864eda3373140fad42aa7f7ddb4fdfeff0e2
-
+Version: 2.0
+Depends: mobilesubstrate
+Description: Snapchat tweak!
+Name: DzSnap
+Author: iMokhles
+Filename: ./debs/dzsnap.deb
+Size: 5340616 Bytes
+MD5sum: e167c03dd192ce232ef22e2fd7ad50fc
+SHA1: 99f96b51c048080f397d300998125f2adb475a7d
+SHA256: c28e04bd71b85aaa08132c29d28c80784f5b55e7ed1d06ced209345b7bc85ad6
