@@ -13,38 +13,6 @@ Description: Snapchat tweak!
 Name: DzSnap
 Author: iMokhles
 
-Package: com.abdullahl7.pubga12
-Version: 3.0
-Section: Games
-Maintainer: AbdullahL7
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/pubga12.deb
-Size: 1210220
-MD5sum: f08c5efc8950122068e18db8fee6d8eb
-SHA1: 9ba5333681a0f7903f45cc4d8fce699e83edfc74
-SHA256: 07a701f84bb611784b3750d003e5fe84ed08eeafbc1da5195abe082fec53ded3
-Description: Pubg Hack for A12
-Name: PUBG Hack A12
-Conflicts: com.blueplus.pubgmobilenoblocking, com.blueplus.pbh3, com.abdullahl7.pubgs
-Author: AbdullahL7
-
-Package: com.abdullahl7.pubg
-Version: 3.0
-Section: Games
-Maintainer: AbdullahL7
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/pubg.deb
-Size: 31258
-MD5sum: 4cedf319e909103b6ff453183efbba55
-SHA1: 3c9b1b2fc899687224e84c1d854425bd93ea4f14
-SHA256: eb3e91fb56686bdcde592d5e45e013f905f56b20eff79385fa1cc2ac4b02addf
-Description: Pubg Hack
-Name: PUBG Hack
-Conflicts: com.blueplus.pubgmobilenoblocking, com.blueplus.pbh3, com.abdullahl7.pubgs
-Author: AbdullahL7
-
 Name: Phantom12
 Package: com.abdullahl7.phantom
 Priority: optional
@@ -110,19 +78,3 @@ MD5sum: 224c95c3e2ddb3d4d49ea6069ede8077
 SHA1: f85de0ac7d07f5bf5ac9cc9dcfe950eaa4d0cb2a
 SHA256: b58f0210434009cf677b48d3cdd4864eda3373140fad42aa7f7ddb4fdfeff0e2
 
-Package: com.ryleyangus.libertylite.beta
-Name: Liberty Lite (Beta)
-Depends: mobilesubstrate, preferenceloader, applist
-Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
-Architecture: iphoneos-arm
-Description: A general purpose jailbreak detection bypass patch. Configure the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not currently supported. Support for both arm64e and armv7 has been enabled in this beta version.
-Maintainer: Ryley Angus
-Author: Ryley Angus
-Section: Tweaks
-Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
-Version: 0.2.12
-Filename: ./debs/liberty.deb
-Size: 42210
-MD5sum: 37298170685afadc9b2bf7f636dafba7
-SHA1: f2a120261d0d0ee6ace2deb7508e567cbc76d362
-SHA256: 990c49c7af5807e031d7fa4632e56eb6f5222a1c29002187f88d4de33da684a7
