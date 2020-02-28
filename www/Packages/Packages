@@ -1,46 +1,17 @@
-Package: com.abdullahl7.dzsnap
-Version: 1.1
+Package: com.you.batchinstall
+Name: BatchInstall
+Version: 0.1
+Author: AbdullahL7
+Maintainer: AbdullahL7
+Depends: com.captinc.batchomatic
+Architecture: iphoneos-arm
 Section: Tweaks
-Maintainer: AbdullahL7
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/dzsnap.deb
-Size: 5405876
-MD5sum: fe5d54a9b6cd66cba9c7dc40b446a631
-SHA1: 7ed8d40754624d8e94bb28b62d3c5fd1d11e389e
-SHA256: 80aa8f0535018210f0528b07ffb05e872f22aaaa9ae4d59f1207b41128f0fcc6
-Description: Snapchat tweak!
-Name: DzSnap
-Author: iMokhles
-
-Package: com.abdullahl7.ns
-Name: Necessary Sources
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Necessary Jailbreak Tools
-Maintainer: AbdullahL7
-Author: AbdullahL7
-Section: Utilities
-Filename: ./debs/ns.deb
-Size: 992
-MD5sum: d66498a20a888e8f361405e3846e7f9d
-SHA1: 074c3cf4d125a8d3dc0f3fa6aa6dc1e91883aacf
-SHA256: aebed9d8ba00bda2152749858d17dacc6f2f9b460dca04b4d0bf1784e5b5a2cd
-
-Package: com.abdullahl7.nt
-Name: Necessary Tools
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Necessary Jailbreak Tools
-Maintainer: AbdullahL7
-Author: AbdullahL7
-Depends: com.tigisoftware.filza, ws.hbang.newterm2, com.cannathea.afc2d-arm64, com.ryleyangus.libertylite.beta, com.matchstic.reprovision, com.julioverne.cracktool4, com.cokepokes.appstoreplusplus, openssh
-Section: Utilities
-Filename: ./debs/nt.deb
-Size: 1520
-MD5sum: 50e36478c5d9c31f3865691403616839
-SHA1: 4937d9519e8710a46577cf2760aa5013c74d5878
-SHA256: c9148840429e71f84d48aa1f083222e865246fcc7d33aad2e21c233cb840b3f3
+Description: Batch install basic tweaks & repos!
+Filename: ./debs/batchinstall.deb
+Size: 1840 Bytes
+MD5sum: 6790fbe5f127987efdad76633f7b84d8
+SHA1: 5fcde490adef6cb48955e25d995ddafd2f6a3d8a
+SHA256:4e6678cc2becd390bda2a63baa91564134d03b1ccb484cd034729351f66325ca
 
 Package: com.abdullahl7.dzsnap
 Section: Tweaks
@@ -52,7 +23,57 @@ Description: Snapchat tweak!
 Name: DzSnap
 Author: iMokhles
 Filename: ./debs/dzsnap.deb
-Size: 5340616 Bytes
-MD5sum: e167c03dd192ce232ef22e2fd7ad50fc
-SHA1: 99f96b51c048080f397d300998125f2adb475a7d
-SHA256: c28e04bd71b85aaa08132c29d28c80784f5b55e7ed1d06ced209345b7bc85ad6
+Size: 5339242 Bytes
+MD5sum: 6c688946408819f33bfcc4a6abb27c67
+SHA1: 0e3aab8db8a0ed3cc63e9df48590d51bb22e73f1
+SHA256: 1b5a3fd88cd672f65ca8c28c46eafb7382592302b03898fee386497b0d5c03ab
+
+Name: Phantom13
+Package: com.abdullahl7.phantom13
+Priority: optional
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, com.abdullahl7.phantomsafe
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.jonluca.sclenses4all, com.cokepokes.libphantom
+Replaces: com.cokepokes.phlite
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Phantom for IOS13
+Maintainer: AbdullahL7
+Author: CokePokes 
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
+Filename: ./debs/Phantom13.deb
+Size: 9990978 Bytes
+MD5sum: 151c4cb113cb4b33bcfc9349e7456635
+SHA1: fb83755e10554350a2f3a1055a5c361164b8848d
+SHA256: 1a5ec1774bfbb0f83dc238f1ec3b0156561e33e35804d52be9c34f69cd20a42d
+
+
+Name: PhantomSafe
+Package: com.abdullahl7.phantomsafe
+Version: 2.0
+Architecture: iphoneos-arm
+Description: PhantomSafe
+Author: AbdullahL7 
+Maintainer: AbdullahL7
+Section: Tweaks
+Tag: purpose::extension
+Filename: ./debs/PhantomSafe.deb
+Size: 5322 Bytes
+MD5sum: 70b967a34b87c38a980ee558f5d7c0cb
+SHA1: 264a37c46fe858b2f07c9cfd9f02b71b9a278c7e
+SHA256: 08c7196062437bb3982f22e239a87ec5a8c810ee3e52dc91174ef90210a0a37b
+
+Package: kr.xsf1re.flyjb
+Name: PUBGSafe
+Depends: mobilesubstrate, applist, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Architecture: iphoneos-arm
+Description: hide jailbreak from PUBG.
+Maintainer: AbdullahL7
+Author: XsF1re
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/pubgsafe.deb
+Size: 136384 Bytes
+MD5sum: a1252462cc63c4cfb09b094d106af1af
+SHA1: 2325b996e9732f420f08f85fdc50965c380fadd4
+SHA256: 7adfb9550cd7876a8ba4ab17b4f52b79991b31fa257568901b7cc9808bc5668d
